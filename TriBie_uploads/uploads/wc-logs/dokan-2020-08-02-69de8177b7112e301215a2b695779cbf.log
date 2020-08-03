@@ -1,0 +1,13 @@
+2020-08-02T05:21:42+00:00 DEBUG New Order #6092 created. Init sub order.
+2020-08-02T05:21:42+00:00 DEBUG Got 2 vendors, starting sub order.
+2020-08-02T05:21:42+00:00 DEBUG Creating sub order for vendor: #18
+2020-08-02T05:21:42+00:00 DEBUG #6093 - Creating Shipping.
+2020-08-02T05:21:42+00:00 DEBUG #6093 - Adding shipping item.
+2020-08-02T05:21:42+00:00 DEBUG Created sub order : #6093
+2020-08-02T05:21:42+00:00 DEBUG Creating sub order for vendor: #19
+2020-08-02T05:21:42+00:00 DEBUG #6094 - Creating Shipping.
+2020-08-02T05:21:42+00:00 DEBUG #6094 - Adding shipping item.
+2020-08-02T05:21:42+00:00 DEBUG Created sub order : #6094
+2020-08-02T05:21:42+00:00 DEBUG Completed sub order for #6092.
+2020-08-02T06:55:35+00:00 DEBUG New Order #6095 created. Init sub order.
+2020-08-02T06:55:35+00:00 DEBUG 1 vendor only, skipping sub order.
