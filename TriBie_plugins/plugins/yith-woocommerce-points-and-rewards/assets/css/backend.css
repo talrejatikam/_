@@ -1,0 +1,265 @@
+/**
+General style
+ */
+#ywpar_reset_points,
+#yit_ywpar_options_import_csv_points,
+#yit_ywpar_options_file_import_csv-button_reset {
+  display : none;
+}
+
+/**
+Setting Points Page
+ */
+#yith_woocommerce_points_and_rewards_points .yith-plugin-fw-buttons-field-wrapper {
+  max-width : 300px;
+}
+
+#ywpar_options_import_form-container label {
+  display     : block;
+  font-weight : 600;
+  margin      : 10px 0;
+  clear       : both;
+}
+
+#ywpar_options_import_form-container .inner-option {
+  margin-bottom : 10px;
+}
+
+#yit_ywpar_options_fix_expiration_points-container span.response {
+  padding-top : 10px;
+  display     : block;
+}
+
+div#yit_ywpar_options_fix_expiration_points-container .option {
+  width : 130px;
+}
+
+#yit_ywpar_options_fix_expiration_points-container .blockUI.blockOverlay::before {
+  left : 7% !important;
+}
+
+div#yit_ywpar_options_extra_points-container {
+  margin-left : -220px;
+  position    : relative;
+}
+
+
+/*
+Customer history point view
+ */
+form.ywpar_update_point_form, .ywpar_user_info {
+  background-color : #fff;
+  padding          : 20px;
+  margin-bottom    : 40px;
+  margin-right     : 10px;
+  width            : 44%;
+  float            : left;
+  min-height       : 150px;
+}
+
+#poststuff form.ywpar_update_point_form h2, #poststuff .ywpar_user_info h2 {
+  padding-left : 0;
+
+}
+
+.ywpar_user_info_wrapper, .history-table {
+  display : block;
+  clear   : both;
+  width   : 100%;
+}
+
+.conversion-options {
+  margin-bottom : 4px;
+}
+
+.conversion-options input {
+  width         : 70px !important;
+  display       : inline-block;
+  margin-bottom : 10px;
+}
+
+.conversion-role {
+  display        : inline-block;
+  vertical-align : middle;
+}
+
+.conversion-currencies {
+  display        : inline-block;
+  vertical-align : top;
+  padding-right  : 20px;
+}
+
+.yith-plugin-fw .conversion-currencies input[type=number],
+.yith-plugin-fw .extrapoint-options input[type=number] {
+  max-width : 70px !important;
+}
+
+.yith-plugin-fw .extrapoint-options span {
+  margin : 0 10px;
+}
+
+.yith-plugin-fw .extrapoint-options .option {
+  margin-bottom : 10px;
+}
+
+.woocommerce table.form-table .conversion-role select {
+  max-width : 150px;
+}
+
+#plugin-fw-wc .yit_options.role-conversion-options {
+  max-width      : 510px;
+  margin-bottom  : 10px;
+  border-bottom  : 1px solid #eee;
+  padding-bottom : 10px;
+}
+
+
+/**
+Remove table head
+ */
+.options-extra-points th,
+.options-import-form th {
+  width : 0;
+}
+
+
+/**
+Add and Remove Items
+ */
+.ywpar-remove-row {
+  width      : 20px;
+  height     : 20px;
+  background : url('../images/close.svg') no-repeat top center;
+  display    : inline-block;
+  margin     : 2px;
+  cursor     : pointer;
+  opacity    : 0.5;
+}
+
+.ywpar-remove-row.hide-remove {
+  display : none;
+}
+
+.ywpar-add-row {
+  width      : 20px;
+  height     : 20px;
+  background : url('../images/add.svg') no-repeat top center;
+  display    : inline-block;
+  margin     : 2px;
+  cursor     : pointer;
+  opacity    : 0.5;
+}
+
+/**
+History Table
+ */
+.history-table .column-id {
+  width : 10%;
+}
+
+.history-table .column-amount {
+  width : 20%;
+}
+
+.history-table .fixed .column-date {
+  width : 30% !important;
+}
+
+/*
+Customer history point view
+ */
+form.ywpar_update_point_form, .ywpar_user_info {
+  background-color : #fff;
+  padding          : 20px;
+  margin-bottom    : 40px;
+  margin-right     : 10px;
+  width            : 100%;
+  float            : left;
+  min-height       : 150px;
+  border           : 1px solid #016087;
+  flex-basis       : 50%;
+}
+
+#poststuff form.ywpar_update_point_form h2, #poststuff .ywpar_user_info h2 {
+  padding-left : 0;
+
+}
+
+.ywpar_user_info_wrapper, .history-table {
+  display    : flex;
+  clear      : both;
+  width      : 80%;
+  margin-top : 30px;
+}
+
+
+.wrap.par-wrap {
+  padding    : 20px;
+  background : #fff;
+  margin-top : -2px;
+}
+
+.wrap.par-wrap h2 {
+  font-size   : 15px;
+  font-weight : 600;
+  border      : 0 !important;
+}
+
+.wrap.par-wrap .tablenav {
+  display     : flex;
+  margin      : 15px 0;
+  align-items : center;
+}
+
+
+.wrap.par-wrap {
+  padding    : 20px;
+  background : #fff;
+  margin-top : -2px;
+}
+
+.wrap.par-wrap h2 {
+  font-size   : 15px;
+  font-weight : 600;
+  border      : 0 !important;
+}
+
+.wrap.par-wrap .tablenav {
+  display     : flex;
+  margin      : 15px 0;
+  align-items : center;
+}
+
+.wp-core-ui .yith-plugin-ui .wrap.par-wrap .button-primary {
+  line-height : 30px;
+}
+
+.ywpar_update_point {
+  flex-basis : 50%;
+}
+
+.ywpar-input-wrapper input[type=number] {
+  height : 30px;
+}
+
+.ywpar-input-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+#poststuff .history-table h2{
+  padding:0;
+}
+
+.yith-plugin-fw-field-wrapper .yith-plugin-fw-options-extrapoints-field-wrapper .option,
+.yith-plugin-fw-field-wrapper.yith-plugin-fw-options-role-percentage-conversion-field-wrapper .option,
+.yith-plugin-fw-field-wrapper.yith-plugin-fw-options-percentage-conversion-field-wrapper .option,
+.yith-plugin-fw-field-wrapper.yith-plugin-fw-options-role-conversion-field-wrapper .option,
+.yith-plugin-fw-field-wrapper.yith-plugin-fw-options-conversion-field-wrapper .option {
+  display: flex;
+  align-items: center;
+}
+.yith-plugin-fw-field-wrapper.yith-plugin-fw-options-percentage-conversion-field-wrapper .option span,
+.yith-plugin-fw-field-wrapper.yith-plugin-fw-options-conversion-field-wrapper .option span{
+  margin: 10px;
+}

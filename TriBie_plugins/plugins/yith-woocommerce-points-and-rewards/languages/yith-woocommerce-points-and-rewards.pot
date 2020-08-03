@@ -1,0 +1,648 @@
+# Copyright (C) 2020 YITH WooCommerce Points and Rewards
+# This file is distributed under the same license as the YITH WooCommerce Points and Rewards package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Points and Rewards 1.4.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2020-04-28 12:45:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:45
+#: includes/admin/yith-wc-points-rewards-customers-view.php:28
+msgid "ID"
+msgstr ""
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:46
+#: includes/admin/yith-wc-points-rewards-customers-view.php:31
+msgid "Action"
+msgstr ""
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:47
+msgid "Order No."
+msgstr ""
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:48
+msgid "Amount"
+msgstr ""
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:49
+msgid "Date"
+msgstr ""
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:138
+msgid "Order #%d"
+msgstr ""
+
+#: includes/admin/yith-wc-points-rewards-customers-view.php:29
+msgid "User"
+msgstr ""
+
+#: includes/admin/yith-wc-points-rewards-customers-view.php:30
+msgid "Subtotal"
+msgstr ""
+
+#: includes/admin/yith-wc-points-rewards-customers-view.php:134
+#: templates/admin/customers-tab.php:52
+msgid "Update Points"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:117
+msgid "Done!"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:149
+msgid "Are you sure that want reset all points? This process is irreversible"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:151
+msgid "Do you want to reset points for user"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:191
+msgid "Customer Points"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:192
+msgid "Settings"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:193
+msgid "Point Settings"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:194
+#: templates/admin/premium.php:416
+msgid "Labels"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:195
+msgid "Messages"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:196
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:202
+msgctxt "Plugin name, do not translate"
+msgid "YITH WooCommerce Points and Rewards"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-admin.php:203
+msgctxt "Plugin name, do not translate"
+msgid "Points and Rewards"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-earning.php:238
+msgid "Customer earned %1$d %2$s for this purchase."
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-frontend.php:162
+#: includes/class.yith-wc-points-rewards-frontend.php:172
+msgid "Apply Discount"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-redemption.php:184
+msgid "Added %1$d %2$s for order %3$s."
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-redemption.php:375
+msgid "Redeem points"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-redemption.php:485
+msgid "%1$d %2$s to get a reward"
+msgstr ""
+
+#: includes/class.yith-wc-points-rewards-redemption.php:485
+#: plugin-options/labels-options.php:36
+#: templates/panel/types/options-conversion.php:47
+#: templates/panel/types/options-extrapoints.php:52
+#: templates/panel/types/ywpar-options-conversion.php:37
+msgid "Points"
+msgstr ""
+
+#: init.php:41
+msgid ""
+"You can't activate the free version of YITH WooCommerce Points and Rewards "
+"while you are using the premium one."
+msgstr ""
+
+#: init.php:143
+msgid ""
+"YITH WooCommerce Points and Rewards is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: plugin-options/general-options.php:17
+msgid "General Settings"
+msgstr ""
+
+#: plugin-options/general-options.php:23
+msgid "Enable Points and Rewards"
+msgstr ""
+
+#: plugin-options/general-options.php:24
+msgid "Enable the plugin."
+msgstr ""
+
+#: plugin-options/general-options.php:31 plugin-options/general-options.php:36
+msgid "Reset Points"
+msgstr ""
+
+#: plugin-options/general-options.php:32
+msgid ""
+"Click on the button to reset all the points earned and redeemed by customers"
+msgstr ""
+
+#: plugin-options/labels-options.php:17
+msgid "Labels Settings"
+msgstr ""
+
+#: plugin-options/labels-options.php:23
+msgid "Singular label replacing \"point\""
+msgstr ""
+
+#: plugin-options/labels-options.php:27
+msgid "Point"
+msgstr ""
+
+#: plugin-options/labels-options.php:32
+msgid "Plural label replacing \"points\""
+msgstr ""
+
+#: plugin-options/messages-options.php:18
+msgid "Show Message on Cart page"
+msgstr ""
+
+#: plugin-options/messages-options.php:24
+msgid "Show Message in Cart"
+msgstr ""
+
+#: plugin-options/messages-options.php:33
+msgid "Cart Message"
+msgstr ""
+
+#: plugin-options/messages-options.php:37
+msgid ""
+"If you proceed to checkout, you will earn <strong>{points}</strong> "
+"{points_label}!"
+msgstr ""
+
+#: plugin-options/messages-options.php:52
+#: plugin-options/messages-options.php:58
+msgid "Show Reward Message in Cart/Checkout"
+msgstr ""
+
+#: plugin-options/messages-options.php:67
+msgid "Reward Message on Cart/Checkout page"
+msgstr ""
+
+#: plugin-options/messages-options.php:71
+msgid ""
+"Use <strong>{points}</strong> {points_label} for a <strong>{max_discount}</"
+"strong> discount on this order!"
+msgstr ""
+
+#: plugin-options/points-options.php:17
+msgid "Points and rewards settings"
+msgstr ""
+
+#: plugin-options/points-options.php:24
+msgid "Assign points for every product purchased"
+msgstr ""
+
+#: plugin-options/points-options.php:25
+msgid ""
+"Choose how many points per product will be earned based on the currency.\n"
+"Please, note: points are awarded on a product basis and not on the cart "
+"total. "
+msgstr ""
+
+#: plugin-options/points-options.php:41
+msgid "Remove points when coupons are used"
+msgstr ""
+
+#: plugin-options/points-options.php:42
+msgid ""
+"If you use coupons, their value will be removed from cart total and "
+"consequently points gained will be reduced as well."
+msgstr ""
+
+#: plugin-options/points-options.php:55
+msgid "How to award discounts when customers use their available points"
+msgstr ""
+
+#: plugin-options/points-options.php:62
+msgid "Enable points redemption"
+msgstr ""
+
+#: plugin-options/points-options.php:63
+msgid ""
+"If you disable this option, you will still be able to manage points manually."
+msgstr ""
+
+#: plugin-options/points-options.php:72
+msgid "Reward Conversion Rate"
+msgstr ""
+
+#: plugin-options/points-options.php:73
+msgid ""
+"Choose how to calculate the discount when customers use their available "
+"points."
+msgstr ""
+
+#: templates/admin/customers-tab.php:13
+msgid "Customer's Points"
+msgstr ""
+
+#: templates/admin/customers-tab.php:18
+msgid "Back to list"
+msgstr ""
+
+#: templates/admin/customers-tab.php:28
+msgid "#%1$d - %2$s %3$s"
+msgstr ""
+
+#: templates/admin/customers-tab.php:30
+msgid "#%1$d - %2$s"
+msgstr ""
+
+#: templates/admin/customers-tab.php:40
+msgid "Current points: <strong>%d</strong> "
+msgstr ""
+
+#: templates/admin/customers-tab.php:44
+msgid "Update user points"
+msgstr ""
+
+#: templates/admin/customers-tab.php:45
+msgid ""
+"You can either add or remove points. Insert positive numbers to add points "
+"to the customer's credit or negative values to remove points."
+msgstr ""
+
+#: templates/admin/customers-tab.php:60
+msgid "Point history"
+msgstr ""
+
+#: templates/admin/premium.php:279 templates/admin/premium.php:670
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Points and Rewards"
+"%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:282 templates/admin/premium.php:673
+msgid "UPGRADE"
+msgstr ""
+
+#: templates/admin/premium.php:283 templates/admin/premium.php:674
+msgid "to the premium version"
+msgstr ""
+
+#: templates/admin/premium.php:289
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:292 templates/admin/premium.php:297
+msgid "Get points on every order"
+msgstr ""
+
+#: templates/admin/premium.php:300
+msgid ""
+"Reward loyal customers by giving them the possibility to benefit of "
+"%1$sspecial discounts%2$s thanks to the points collected with their shopping."
+"%3$sAnother reason to encourage your users to prefer your e-commerce store "
+"instead of another one."
+msgstr ""
+
+#: templates/admin/premium.php:310
+msgid "Restrictions on collected points"
+msgstr ""
+
+#: templates/admin/premium.php:313
+msgid ""
+"If you are afraid to become a victim of your loyalty rewards system, just "
+"set a %1$smaximum amount%2$s for discounts that users can benefit from. This "
+"limit will be calculated according to the number of products in cart. "
+"Moreover, you can either set global restrictions or more specific ones on "
+"%1$scategory or product level%2$s."
+msgstr ""
+
+#: templates/admin/premium.php:317
+msgid "Limit for collected points"
+msgstr ""
+
+#: templates/admin/premium.php:324 templates/admin/premium.php:329
+msgid "User role"
+msgstr ""
+
+#: templates/admin/premium.php:332
+msgid ""
+"The criteria for awarding of points can vary according to the plugin "
+"configuration: among the many available settings, you can assign a different "
+"number of points to users based on their %1$sWordPress role%2$s. You can "
+"also have different settings by user role for rewards."
+msgstr ""
+
+#: templates/admin/premium.php:342
+msgid "Expiry date "
+msgstr ""
+
+#: templates/admin/premium.php:345
+msgid ""
+"Setting an expiry date for points collected can help you %1$sincrease the "
+"sales volume%2$s of your store, because this actually pushes your users to "
+"keep purchasing so they do not lose points collected so far and the discount "
+"they can get."
+msgstr ""
+
+#: templates/admin/premium.php:349
+msgid "Expiry date"
+msgstr ""
+
+#: templates/admin/premium.php:356 templates/admin/premium.php:361
+msgid "Automatic emails"
+msgstr ""
+
+#: templates/admin/premium.php:364
+msgid ""
+"Keep your users always updated by enabling %1$sautomatic emails%2$s for "
+"every time their points balance is updated. They will be able to track their "
+"points-awarding actions and be always updated about their points balance."
+msgstr ""
+
+#: templates/admin/premium.php:367
+msgid ""
+"And that's not all. If you have set an %1$sexpiry date for points%2$s of "
+"your shop, enable also automatic emails that will be sent a certain number "
+"of days before the expiration, so they will not forget about them nor lose "
+"their bonus."
+msgstr ""
+
+#: templates/admin/premium.php:377 templates/admin/premium.php:384
+msgid "Point removal"
+msgstr ""
+
+#: templates/admin/premium.php:380
+msgid ""
+"Sometimes it happens that you have to %1$scancel%2$s or %1$srefund%2$s an "
+"order, one that maybe has already credited points to the user. In case you "
+"want remove these points from their balance, you'll just have to enable the "
+"option and the system will automatically update it."
+msgstr ""
+
+#: templates/admin/premium.php:391 templates/admin/premium.php:396
+msgid "Extra points"
+msgstr ""
+
+#: templates/admin/premium.php:399
+msgid ""
+"Beyond usual points credited at each purchase, %1$sthe plugin allows you to "
+"gift extra points%2$s when certain conditions occur: either after "
+"registration in the shop or to thank them for reviewing one product, when a "
+"certain spend threshold has been reached or a certain number of points or "
+"orders is collected."
+msgstr ""
+
+#: templates/admin/premium.php:409
+msgid "Label customisation"
+msgstr ""
+
+#: templates/admin/premium.php:412
+msgid ""
+"All labels displayed to users can be %1$scustomised%2$s from plugin settings "
+"panel. In few and quick moves you can change your texts as you prefer."
+msgstr ""
+
+#: templates/admin/premium.php:423
+msgid "Product exclusion"
+msgstr ""
+
+#: templates/admin/premium.php:428
+msgid "Pre-activation purchases"
+msgstr ""
+
+#: templates/admin/premium.php:431
+msgid ""
+"The premium version of %1$sYITH WooCommerce Points and Rewards%2$s allows "
+"you to include in your point system also users who have purchased before its "
+"activation.%3$sIn this case, it will be up to you to inform them about the "
+"great news reserved to them and tell them that their point credit is already "
+"up-to-date and availble in \"My Account\" page."
+msgstr ""
+
+#: templates/admin/premium.php:441 templates/admin/premium.php:448
+msgid "User messages"
+msgstr ""
+
+#: templates/admin/premium.php:444
+msgid ""
+"Encourage your users to purchase from your shop by showing in product detail "
+"page the %1$snumber of points%2$s due for that purchase. But that's not the "
+"only benefit: enable message displaying in cart page to inform users both "
+"about points due for that purchase and the possible %1$sdiscount%2$s they "
+"can benefit with points collected sofar."
+msgstr ""
+
+#: templates/admin/premium.php:455 templates/admin/premium.php:460
+msgid "\"My Account\" summary"
+msgstr ""
+
+#: templates/admin/premium.php:463
+msgid ""
+"Any user of your shop must be able to see their own point credit any time "
+"they want. This is the reason why the plugin adds a dedicated section into "
+"%1$s\"My account\"%2$s page where users can see the total credit available "
+"and all actions that have given them points."
+msgstr ""
+
+#: templates/admin/premium.php:473
+msgid "Widgets"
+msgstr ""
+
+#: templates/admin/premium.php:476
+msgid ""
+"3 widgets of different type. The first one to show logged-in users their "
+"%1$scurrent points balance%2$s and two more widgets for the admin only, who "
+"will be able to immediately see users that %1$shave collected more points "
+"and redeemed the highest rewards%2$s in the shop."
+msgstr ""
+
+#: templates/admin/premium.php:480
+msgid "Bulk actions"
+msgstr ""
+
+#: templates/admin/premium.php:487 templates/admin/premium.php:492
+msgid "Points history"
+msgstr ""
+
+#: templates/admin/premium.php:495
+msgid ""
+"Thanks to %1$sPoint List%2$s shortcode, your users can consult their points "
+"history at any time and check action details of orders in the shop."
+msgstr ""
+
+#: templates/admin/premium.php:505 templates/admin/premium.php:512
+msgid "Fixed or percentage discount"
+msgstr ""
+
+#: templates/admin/premium.php:508
+msgid ""
+"Choose the discount typology to apply when %1$susers redeem their points"
+"%2$s, from fixed or percentage, in relation to the price of products in cart"
+msgstr ""
+
+#: templates/admin/premium.php:519 templates/admin/premium.php:524
+msgid "Reset points"
+msgstr ""
+
+#: templates/admin/premium.php:527
+msgid ""
+"You can reset your customers' points at any time. You can either do that for "
+"all customers or for just some of them on every single customer's points "
+"page or with bulk actions."
+msgstr ""
+
+#: templates/admin/premium.php:537
+msgid "Points management for user roles"
+msgstr ""
+
+#: templates/admin/premium.php:540
+msgid ""
+"Hot news! Now you can limit the points earning or redeeming only to those "
+"users with a specified role on your site"
+msgstr ""
+
+#: templates/admin/premium.php:556
+msgid "Shop manager"
+msgstr ""
+
+#: templates/admin/premium.php:559
+msgid ""
+"Do you wish your %1$sshop manager%2$s to take care of the loyalty rewards "
+"programme without giving them %1$sadmin capabilities%2$s in your shop?%3$s "
+"No worries, we have the right solution. "
+msgstr ""
+
+#: templates/admin/premium.php:562
+msgid ""
+"You only need to enable the option to give the shop manager the %1$sbenefits "
+"to editing%2$s the points balance of each user. "
+msgstr ""
+
+#: templates/admin/premium.php:572
+msgid "Points per product"
+msgstr ""
+
+#: templates/admin/premium.php:575
+msgid ""
+"Give your users a complete view of the points assigned to each product so "
+"that they can immediately notice the opportunity made available. "
+msgstr ""
+
+#: templates/admin/premium.php:591
+msgid "Free shipping"
+msgstr ""
+
+#: templates/admin/premium.php:594
+msgid ""
+"From now on, also those purchasing by redeeming their points can %1$sbenefit "
+"of free shipping%2$s.%3$s Decide whether offering this opportunity or not. "
+msgstr ""
+
+#: templates/admin/premium.php:604
+msgid "Link to \"My points\""
+msgstr ""
+
+#: templates/admin/premium.php:607
+msgid ""
+"A dedicated link in the \"My Account\" page, where users have direct access "
+"to an oversight of their points. They will be able to see the date, status, "
+"amount of points and the related order. "
+msgstr ""
+
+#: templates/admin/premium.php:619
+msgid "Import and export"
+msgstr ""
+
+#: templates/admin/premium.php:624
+msgid "Import and Export"
+msgstr ""
+
+#: templates/admin/premium.php:627
+msgid ""
+"There may be thousands reasons why you have to import or export your "
+"customers' points. Thanks to the dedicated tab, you can do that in few "
+"simple steps and your customers will never lose a point!"
+msgstr ""
+
+#: templates/admin/premium.php:637
+msgid "Everything at the right moment"
+msgstr ""
+
+#: templates/admin/premium.php:640
+msgid ""
+"You may want to assign points to your users immediately after the order is "
+"placed, or make sure, first, that the order is paid.%3%s No worries. You can "
+"choose yourself on which order status the points will be assigned to your "
+"customers: %1$sOrder completed%2$s, %1$sOrder processing%2$s, %1$s Payment "
+"completed%2$s. You will never lose control!"
+msgstr ""
+
+#: templates/admin/premium.php:652 templates/admin/premium.php:657
+msgid "Multi-currency support"
+msgstr ""
+
+#: templates/admin/premium.php:660
+msgid ""
+"If your shop is running on multiple currencies and you want to set up "
+"specific points conversion rules for each currency, you can! You will be "
+"able to do that both for awarding and for redeeming points, and for each "
+"customer user role that you set up."
+msgstr ""
+
+#: templates/myaccount/my-points-view.php:19
+msgid "My Points"
+msgstr ""
+
+#: templates/myaccount/my-points-view.php:21
+msgid "You have <strong>%s point</strong>"
+msgid_plural "You have <strong>%s points</strong>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/panel/types/options-extrapoints.php:57
+msgid "repeat"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Points and Rewards"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://yithemes.com/themes/plugins/yith-woocommerce-points-and-rewards/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"With <code><strong>YITH WooCommerce Points and Rewards</strong></code> you "
+"can start a rewarding program with points to gain your customers' loyalty. "
+"It's a perfect marketing strategy for your store. <a href=\"https://yithemes."
+"com/\" target=\"_blank\">Get more plugins for your e-commerce shop on "
+"<strong>YITH</strong></a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""

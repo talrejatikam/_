@@ -1,0 +1,1459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Points and Rewards\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2020-02-11 10:55:25+00:00\n"
+"PO-Revision-Date: 2020-02-11 11:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:44
+#: includes/admin/yith-wc-points-rewards-customers-view.php:22
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:45
+#: includes/admin/yith-wc-points-rewards-customers-view.php:25
+msgid "Action"
+msgstr "Azione"
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:46
+msgid "Order No."
+msgstr "Ordine n."
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:47
+msgid "Amount"
+msgstr "Importo"
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:48
+msgid "Date"
+msgstr "Data"
+
+#: includes/admin/yith-wc-points-rewards-customer-history-view.php:136
+msgid "Order #%d"
+msgstr "Ordine #%d"
+
+#: includes/admin/yith-wc-points-rewards-customers-view.php:23
+msgid "User"
+msgstr "Utente"
+
+#: includes/admin/yith-wc-points-rewards-customers-view.php:24
+msgid "Subtotal"
+msgstr "Subtotale"
+
+#: includes/admin/yith-wc-points-rewards-customers-view.php:112
+#: templates/admin/customers-tab.php:39
+msgid "Update Points"
+msgstr "Aggiorna punti"
+
+#: includes/class.yith-wc-points-rewards-admin.php:115
+msgid "Done!"
+msgstr "Fatto!"
+
+#: includes/class.yith-wc-points-rewards-admin.php:138
+msgid "Are you sure that want reset all points? This process is irreversible"
+msgstr ""
+"Sei sicuro che vuoi reimpostare tutti i punti? Questa procedura è "
+"irreversibile"
+
+#: includes/class.yith-wc-points-rewards-admin.php:140
+msgid "Do you want to reset points for user"
+msgstr "Vuoi reimpostare i punti per l'utente?"
+
+#: includes/class.yith-wc-points-rewards-admin.php:179
+msgid "Customer Points"
+msgstr "Punti cliente"
+
+#: includes/class.yith-wc-points-rewards-admin.php:180
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/class.yith-wc-points-rewards-admin.php:181
+msgid "Point Settings"
+msgstr "Impostazioni punti"
+
+#: includes/class.yith-wc-points-rewards-admin.php:182
+#: templates/admin/premium.php:416
+msgid "Labels"
+msgstr "Etichette"
+
+#: includes/class.yith-wc-points-rewards-admin.php:183
+msgid "Messages"
+msgstr "Messaggi"
+
+#: includes/class.yith-wc-points-rewards-admin.php:184
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: includes/class.yith-wc-points-rewards-admin.php:191
+#, fuzzy
+#| msgid "YITH WooCommerce Points and Rewards"
+msgctxt "Plugin name, do not translate"
+msgid "YITH WooCommerce Points and Rewards"
+msgstr "YITH WooCommerce Points and Rewards "
+
+#: includes/class.yith-wc-points-rewards-admin.php:192
+msgctxt "Plugin name, do not translate"
+msgid "Points and Rewards"
+msgstr "Punti e Premi"
+
+#: includes/class.yith-wc-points-rewards-earning.php:240
+msgid "Customer earned %d %s for this purchase."
+msgstr "Il cliente ha guadagnato %d %s per questo acquisto."
+
+#: includes/class.yith-wc-points-rewards-frontend.php:151
+#: includes/class.yith-wc-points-rewards-frontend.php:161
+msgid "Apply Discount"
+msgstr "Applica sconto"
+
+#: includes/class.yith-wc-points-rewards-redemption.php:186
+msgid "Added %d %s for order %s."
+msgstr "Aggiunti %d %s per l'ordine %s."
+
+#: includes/class.yith-wc-points-rewards-redemption.php:371
+msgid "Redeem points"
+msgstr "Riscatta i punti"
+
+#: includes/class.yith-wc-points-rewards-redemption.php:473
+msgid "%d %s to get a reward"
+msgstr "%d %s per ottenere uno sconto"
+
+#: includes/class.yith-wc-points-rewards-redemption.php:473
+#: plugin-options/labels-options.php:36
+#: templates/panel/types/options-conversion.php:44
+#: templates/panel/types/options-extrapoints.php:50
+#: templates/panel/types/ywpar-options-conversion.php:31
+msgid "Points"
+msgstr "Punti"
+
+#: init.php:38
+msgid ""
+"You can't activate the free version of YITH WooCommerce Points and Rewards "
+"while you are using the premium one."
+msgstr ""
+"Non è possibile attrivare la versione free di YITH WooCommerce Points and "
+"Rewards se stai già utilizzando la premium."
+
+#: init.php:67 init.php:142
+msgid ""
+"YITH WooCommerce Points and Rewards is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Points and Rewards è abilitato ma non in funzione. Devi "
+"aver installato WooCommerce perché questo possa funzionare correttamente."
+
+#: plugin-options/general-options.php:17
+msgid "General Settings"
+msgstr "Impostazioni generali"
+
+#: plugin-options/general-options.php:23
+msgid "Enable Points and Rewards"
+msgstr "Abilita Points and Rewards"
+
+#: plugin-options/general-options.php:24
+msgid "Enable the plugin."
+msgstr "Abilita il plugin."
+
+#: plugin-options/general-options.php:31 plugin-options/general-options.php:36
+msgid "Reset Points"
+msgstr "Reimposta punti "
+
+#: plugin-options/general-options.php:32
+msgid ""
+"Click on the button to reset all the points earned and redeemed by customers"
+msgstr ""
+
+#: plugin-options/labels-options.php:17
+#, fuzzy
+#| msgid "General Settings"
+msgid "Labels Settings"
+msgstr "Impostazioni generali"
+
+#: plugin-options/labels-options.php:23
+msgid "Singular label replacing \"point\""
+msgstr "Etichetta singolare al posto di \"punto\""
+
+#: plugin-options/labels-options.php:27
+msgid "Point"
+msgstr "Punto"
+
+#: plugin-options/labels-options.php:32
+msgid "Plural label replacing \"points\""
+msgstr "Etichetta plurale al posto di \"punti\""
+
+#: plugin-options/messages-options.php:18
+#, fuzzy
+#| msgid "Show Message in Cart"
+msgid "Show Message on Cart page"
+msgstr "Mostra messaggio nel carrello"
+
+#: plugin-options/messages-options.php:24
+msgid "Show Message in Cart"
+msgstr "Mostra messaggio nel carrello"
+
+#: plugin-options/messages-options.php:33
+msgid "Cart Message"
+msgstr "Messaggio carrello"
+
+#: plugin-options/messages-options.php:37
+msgid ""
+"If you proceed to checkout, you will earn <strong>{points}</strong> "
+"{points_label}!"
+msgstr ""
+"Se procedi con il pagamento, guadagnerai <strong>{points}</strong> "
+"{points_label}!"
+
+#: plugin-options/messages-options.php:52
+#: plugin-options/messages-options.php:58
+msgid "Show Reward Message in Cart/Checkout"
+msgstr "Mostra messaggio premio nella pagina carrello/pagamento"
+
+#: plugin-options/messages-options.php:67
+msgid "Reward Message on Cart/Checkout page"
+msgstr "Messaggio premi nella pagina carrello/checkout"
+
+#: plugin-options/messages-options.php:71
+msgid ""
+"Use <strong>{points}</strong> {points_label} for a <strong>{max_discount}</"
+"strong> discount on this order!"
+msgstr ""
+"Utilizza <strong>{points}</strong> {points_label} per uno sconto di "
+"<strong>{max_discount}</strong> su questo ordine!"
+
+#: plugin-options/points-options.php:17
+msgid "Points and rewards settings"
+msgstr "Impostazioni per punti e premi"
+
+#: plugin-options/points-options.php:24
+msgid "Assign points for every product purchased"
+msgstr "Assegna punti per ogni prodotto acquistato"
+
+#: plugin-options/points-options.php:25
+msgid ""
+"Choose how many points per product will be earned based on the currency.\n"
+"Please, note: points are awarded on a product basis and not on the cart "
+"total. "
+msgstr ""
+"Scegli quanti punti per prodotto verranno assegnati in base alla valuta.\n"
+"Attenzione: i punti vengono assegnati sulla base del prodotto e non sul "
+"totale del carrello. "
+
+#: plugin-options/points-options.php:38
+msgid "Remove points when coupons are used"
+msgstr "Rimuovi i punti quando vengono usati i coupon"
+
+#: plugin-options/points-options.php:39
+msgid ""
+"If you use coupons, their value will be removed from cart total and "
+"consequently points gained will be reduced as well."
+msgstr ""
+"Se utilizzi i coupon, il loro valore verrà rimosso dal totale del carrello e "
+"di conseguenza anche i punti guadagnati saranno ridotti. "
+
+#: plugin-options/points-options.php:52
+msgid "How to award discounts when customers use their available points"
+msgstr ""
+"Scegli come assegnare gli sconti quando i clienti usano i punti a loro "
+"disposizione"
+
+#: plugin-options/points-options.php:59
+msgid "Enable points redemption"
+msgstr "Abilita il riscatto punti"
+
+#: plugin-options/points-options.php:60
+msgid ""
+"If you disable this option, you will still be able to manage points manually."
+msgstr ""
+"Se disattivi questa opzione potrai continuare a gestire i punti manualmente."
+
+#: plugin-options/points-options.php:69
+msgid "Reward Conversion Rate"
+msgstr "Tasso conversione premi"
+
+#: plugin-options/points-options.php:70
+msgid ""
+"Choose how to calculate the discount when customers use their available "
+"points."
+msgstr ""
+"Scegli come calcolare lo sconto quando i clienti usano i punti a loro "
+"disposizione. "
+
+#: templates/admin/customers-tab.php:7
+msgid "Customer's Points"
+msgstr "Punti cliente"
+
+#: templates/admin/customers-tab.php:8
+msgid "Back to list"
+msgstr "Torna all'elenco"
+
+#: templates/admin/customers-tab.php:16
+msgid "#%d - %s %s"
+msgstr "#%d - %s %s"
+
+#: templates/admin/customers-tab.php:18
+msgid "#%d - %s"
+msgstr "#%d - %s"
+
+#: templates/admin/customers-tab.php:28
+msgid "Current points: <strong>%d</strong> "
+msgstr "Punti attuali: <strong>%d</strong> "
+
+#: templates/admin/customers-tab.php:32
+msgid "Update user points"
+msgstr "Aggiorna punti utente"
+
+#: templates/admin/customers-tab.php:33
+msgid ""
+"You can either add or remove points. Insert positive numbers to add points "
+"to the customer's credit or negative values to remove points."
+msgstr ""
+"Puoi sia aggiungere che rimuovere i punti. Inserisci dei valori positivi per "
+"aggiungere i punti o negativi per rimuoverli. "
+
+#: templates/admin/customers-tab.php:47
+msgid "Point history"
+msgstr "Cronologia punti"
+
+#: templates/admin/premium.php:279 templates/admin/premium.php:670
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Points and Rewards"
+"%2$s to benefit from all features!"
+msgstr ""
+"Aggiorna alla%1$sversion e premium%2$s di %1$sYITH WooCommerce Points and "
+"Rewards%2$s per usufruire di tutte le sue funzionalità!"
+
+#: templates/admin/premium.php:282 templates/admin/premium.php:673
+msgid "UPGRADE"
+msgstr "AGGIORNA"
+
+#: templates/admin/premium.php:283 templates/admin/premium.php:674
+msgid "to the premium version"
+msgstr "alla versione premium"
+
+#: templates/admin/premium.php:289
+msgid "Premium Features"
+msgstr "Funzionalità premium"
+
+#: templates/admin/premium.php:292 templates/admin/premium.php:297
+#, fuzzy
+#| msgid "Redeemed Points for order"
+msgid "Get points on every order"
+msgstr "Punti riscattati per ordine"
+
+#: templates/admin/premium.php:300
+#, fuzzy
+#| msgid ""
+#| "Reward loyal customers of your e-commerce by giving them the possibility "
+#| "to benefit of %1$sspecial discount%2$s thanks to the points collected "
+#| "with purchases.%3$sAnother reason to encourage your users to prefer your "
+#| "ecommerce instead of another one."
+msgid ""
+"Reward loyal customers by giving them the possibility to benefit of "
+"%1$sspecial discounts%2$s thanks to the points collected with their shopping."
+"%3$sAnother reason to encourage your users to prefer your e-commerce store "
+"instead of another one."
+msgstr ""
+"Premia i clienti più fidati del tuo ecommerce dando loro la possibilità di "
+"usufruire di %1$sparticolari sconti%2$s in base al saldo punti accumulati "
+"con i loro acquisti.%3$sUn ulteriore motivo per spingere gli utenti a "
+"preferire il tuo ecommerce piuttosto che un altro. "
+
+#: templates/admin/premium.php:310
+#, fuzzy
+#| msgid "Limit for collected points"
+msgid "Restrictions on collected points"
+msgstr "Limite massimo di punti"
+
+#: templates/admin/premium.php:313
+#, fuzzy
+#| msgid ""
+#| "If you risk to become a victim of your point collection system, just set "
+#| "a %1$smaximum limit%2$s for discounts that users can benefit from during "
+#| "purchase. This limit will be calculated according to the number of "
+#| "products in cart and you can set general values or more specific ones "
+#| "with details settings for category and tag."
+msgid ""
+"If you are afraid to become a victim of your loyalty rewards system, just "
+"set a %1$smaximum amount%2$s for discounts that users can benefit from. This "
+"limit will be calculated according to the number of products in cart. "
+"Moreover, you can either set global restrictions or more specific ones on "
+"%1$scategory or product level%2$s."
+msgstr ""
+"Non rimanere vittima del tuo sistema di raccolta punti ed imposta un "
+"%1$slimite massimo%2$s allo sconto di cui l’utente può beneficiare in fase "
+"di acquisto. Il limite viene calcolato in base ai prodotti presenti nel "
+"carrello, con la possibilità di impostare valori generici o più specifici, "
+"scendendo nel dettaglio di categoria e tag."
+
+#: templates/admin/premium.php:317
+msgid "Limit for collected points"
+msgstr "Limite massimo di punti"
+
+#: templates/admin/premium.php:324 templates/admin/premium.php:329
+msgid "User role"
+msgstr "Ruolo utente"
+
+#: templates/admin/premium.php:332
+#, fuzzy
+#| msgid ""
+#| "Criteria for point assignment can vary according to plugin configuration: "
+#| "among the many, you can choose to assign a different value to points of "
+#| "your users according to the %1$sWordPress role%2$s they have in your "
+#| "store and accordingly also rewards will be different."
+msgid ""
+"The criteria for awarding of points can vary according to the plugin "
+"configuration: among the many available settings, you can assign a different "
+"number of points to users based on their %1$sWordPress role%2$s. You can "
+"also have different settings by user role for rewards."
+msgstr ""
+"I criteri di assegnazione punti possono variare in base alla configurazione "
+"del plugin. Tra questi rientra anche la possibilità di assegnare i punti a "
+"seconda del %1$sruolo di WordPress%2$s con cui l’utente è registrato nello "
+"store e di conseguenza anche lo sconto di cui l’utente potrà beneficiare "
+"sarà diverso."
+
+#: templates/admin/premium.php:342
+msgid "Expiry date "
+msgstr "Scadenza punti"
+
+#: templates/admin/premium.php:345
+#, fuzzy
+#| msgid ""
+#| "Setting an expiry date for points collected can help you %1$sincrease "
+#| "sales%2$s volume of your store, because this actually moves your users to "
+#| "keep purchasing in order not to lose collected points and the received "
+#| "discount."
+msgid ""
+"Setting an expiry date for points collected can help you %1$sincrease the "
+"sales volume%2$s of your store, because this actually pushes your users to "
+"keep purchasing so they do not lose points collected so far and the discount "
+"they can get."
+msgstr ""
+"Impostare una scadenza per i punti accumulati può aiutare a %1$sfar crescere "
+"il fatturato%2$s del tuo ecommerce, spingendo di fatto i tuoi utenti a "
+"continuare ad acquistare per non perdere i punti accumulati sino a quel "
+"momento e non perdere nemmeno lo sconto."
+
+#: templates/admin/premium.php:349
+msgid "Expiry date"
+msgstr "Scadenza punti"
+
+#: templates/admin/premium.php:356 templates/admin/premium.php:361
+msgid "Automatic emails"
+msgstr "Invio email"
+
+#: templates/admin/premium.php:364
+#, fuzzy
+#| msgid ""
+#| "Keep your users always updated by enabling %1$sautomatic emails%2$s for "
+#| "each time point credit is updated. This way they will be able to track "
+#| "their points and have their point credit always updated."
+msgid ""
+"Keep your users always updated by enabling %1$sautomatic emails%2$s for "
+"every time their points balance is updated. They will be able to track their "
+"points-awarding actions and be always updated about their points balance."
+msgstr ""
+"Mantieni sempre informati i tuoi utenti attivando l’%1$sinvio automatico%2$s "
+"di un’email ogni qualvolta il suo saldo punti viene aggiornato. In questo "
+"modo potrà tener traccia dei suoi movimenti e avere il saldo punti sempre "
+"aggiornato."
+
+#: templates/admin/premium.php:367
+#, fuzzy
+#| msgid ""
+#| "And that's not all. If you have set an %1$sexpiry date for points%2$s of "
+#| "your shop, enable also automatic emails a certain date before expiration "
+#| "to avoid they forget about it and lose their bonus."
+msgid ""
+"And that's not all. If you have set an %1$sexpiry date for points%2$s of "
+"your shop, enable also automatic emails that will be sent a certain number "
+"of days before the expiration, so they will not forget about them nor lose "
+"their bonus."
+msgstr ""
+"E non finisce qui. Se per i punti del tuo shop hai impostato una %1$sscadenza"
+"%2$s, abilita anche la possibilità di inviare automaticamente un’email un "
+"certo numero di giorni prima della data di scadenza, per evitare che, "
+"dimenticandosene, perdano il loro bonus."
+
+#: templates/admin/premium.php:377 templates/admin/premium.php:384
+msgid "Point removal"
+msgstr "Rimozione punti"
+
+#: templates/admin/premium.php:380
+#, fuzzy
+#| msgid ""
+#| "Sometimes it happens that you have to %1$scancel%2$s or %1$srefund%2$s an "
+#| "order, one that maybe has already credited points to the user. In case "
+#| "you want remove these points from total credit, you'll just have to "
+#| "enable the option and the system will automatically update information "
+#| "concerned."
+msgid ""
+"Sometimes it happens that you have to %1$scancel%2$s or %1$srefund%2$s an "
+"order, one that maybe has already credited points to the user. In case you "
+"want remove these points from their balance, you'll just have to enable the "
+"option and the system will automatically update it."
+msgstr ""
+"A volte può capitare di trovarsi costretti ad %1$sannullare%2$s o "
+"%1$srimborsare%2$s un ordine, per il quale magari l’utente aveva già "
+"ottenuto un bonus in punti. Nel caso in cui tu voglia rimuovere questi punti "
+"dal saldo, ti basterà abilitare l’opzione da pannello ed automaticamente il "
+"sistema provvederà ad aggiornare le informazioni."
+
+#: templates/admin/premium.php:391 templates/admin/premium.php:396
+msgid "Extra points"
+msgstr "Punti extra"
+
+#: templates/admin/premium.php:399
+msgid ""
+"Beyond usual points credited at each purchase, %1$sthe plugin allows you to "
+"gift extra points%2$s when certain conditions occur: either after "
+"registration in the shop or to thank them for reviewing one product, when a "
+"certain spend threshold has been reached or a certain number of points or "
+"orders is collected."
+msgstr ""
+"Oltre i consueti punti assegnati dopo acquisto, %1$sil plugin ti consente di "
+"regalare punti extra %2$s al verificarsi di determinate condizioni: dopo la "
+"registrazione allo shop, come ringraziamento per aver recensito uno dei tuoi "
+"prodotti, al raggiungimento di una data soglia di spesa, di un certo numero "
+"di punti o di ordini."
+
+#: templates/admin/premium.php:409
+msgid "Label customisation"
+msgstr "Personalizzazione etichette"
+
+#: templates/admin/premium.php:412
+msgid ""
+"All labels displayed to users can be %1$scustomised%2$s from plugin settings "
+"panel. In few and quick moves you can change your texts as you prefer."
+msgstr ""
+"Tutte le etichette visualizzate dagli utenti possono essere "
+"%1$spersonalizzate%2$s accedendo al pannello impostazioni del plugin. In "
+"pochi e veloci passi i testi saranno modificati come desideri."
+
+#: templates/admin/premium.php:423
+msgid "Product exclusion"
+msgstr "Escludi prodotti"
+
+#: templates/admin/premium.php:428
+msgid "Pre-activation purchases"
+msgstr "Acquisti pre-attivazione"
+
+#: templates/admin/premium.php:431
+msgid ""
+"The premium version of %1$sYITH WooCommerce Points and Rewards%2$s allows "
+"you to include in your point system also users who have purchased before its "
+"activation.%3$sIn this case, it will be up to you to inform them about the "
+"great news reserved to them and tell them that their point credit is already "
+"up-to-date and availble in \"My Account\" page."
+msgstr ""
+"La versione premium di %1$sYITH WooCommerce Points and Rewards%2$s ti "
+"permette di includere nel tuo sistema punti anche gli utenti che hanno "
+"acquistato prima dell'attivazione del plugin.%3$sIn questo caso, starà a te "
+"informarli delle novità che sono state loro riservate e avvisarli che il "
+"loro saldo punti è già aggiornato e disponibile nella pagina \"Il mio account"
+"\"."
+
+#: templates/admin/premium.php:441 templates/admin/premium.php:448
+msgid "User messages"
+msgstr "Messaggi utente"
+
+#: templates/admin/premium.php:444
+msgid ""
+"Encourage your users to purchase from your shop by showing in product detail "
+"page the %1$snumber of points%2$s due for that purchase. But that's not the "
+"only benefit: enable message displaying in cart page to inform users both "
+"about points due for that purchase and the possible %1$sdiscount%2$s they "
+"can benefit with points collected sofar."
+msgstr ""
+"Invoglia i tuoi utenti ad acquistare nel tuo shop indicando all’interno "
+"della pagina dettaglio prodotto i %1$spunt%2$si che riceveranno per "
+"quell’acquisto. Ma non solo questo: attiva la visualizzazione messaggi nella "
+"pagina carrello per informare l’utente dei punti spettanti per "
+"quell’acquisto e dell’eventuale %1$ssconto%2$s di cui potrebbe beneficiare "
+"in base ai punti finora accumulati."
+
+#: templates/admin/premium.php:455 templates/admin/premium.php:460
+msgid "\"My Account\" summary"
+msgstr "Riepilogo punti \"Il mio account\""
+
+#: templates/admin/premium.php:463
+msgid ""
+"Any user of your shop must be able to see their own point credit any time "
+"they want. This is the reason why the plugin adds a dedicated section into "
+"%1$s\"My account\"%2$s page where users can see the total credit available "
+"and all actions that have given them points."
+msgstr ""
+"Qualsiasi utente del tuo shop deve essere messo nelle condizioni di poter "
+"consultare il proprio saldo punti in qualsiasi momento. È per questo che il "
+"plugin aggiunge una sezione dedicata all’interno della sezione %1$s“My "
+"Account”%2$s all’interno della quale sarà possibile consultare il saldo "
+"attuale e l’elenco completo delle operazioni che gli hanno attribuito punti."
+
+#: templates/admin/premium.php:473
+msgid "Widgets"
+msgstr "Widget"
+
+#: templates/admin/premium.php:476
+#, fuzzy
+#| msgid ""
+#| "2 widgets of different type. The first one only for the admin, who will "
+#| "be able to display immediately users that %1$shave collected more points"
+#| "%2$s in the shop, and the second one for your e-commerce shop to show "
+#| "logged-in users their %1$scurrent point credit%2$s."
+msgid ""
+"3 widgets of different type. The first one to show logged-in users their "
+"%1$scurrent points balance%2$s and two more widgets for the admin only, who "
+"will be able to immediately see users that %1$shave collected more points "
+"and redeemed the highest rewards%2$s in the shop."
+msgstr ""
+"2 widget di diversa natura. Uno esclusivo per l’amministratore, attraverso "
+"cui sarà possibile tener traccia degli utenti che %1$shanno accumulato più "
+"punti%2$s sullo store, e l’altro da inserire nelle pagine del tuo ecommerce "
+"per mostrare all’utente che ha effettuato l’accesso il suo %1$ssaldo punti "
+"corrente%2$s."
+
+#: templates/admin/premium.php:480
+msgid "Bulk actions"
+msgstr "Azioni di gruppo"
+
+#: templates/admin/premium.php:487 templates/admin/premium.php:492
+msgid "Points history"
+msgstr "Storico punti"
+
+#: templates/admin/premium.php:495
+msgid ""
+"Thanks to %1$sPoint List%2$s shortcode, your users can consult their points "
+"history at any time and check action details of orders in the shop."
+msgstr ""
+"Grazie allo shortcode %1$sPoint List%2$s i tuoi utenti possono consultare il "
+"loro storico punti in qualsiasi momento e verificare i dettagli delle azioni "
+"degli ordini nel negozio. "
+
+#: templates/admin/premium.php:505 templates/admin/premium.php:512
+msgid "Fixed or percentage discount"
+msgstr "Sconto fisso o percentuale"
+
+#: templates/admin/premium.php:508
+#, fuzzy
+#| msgid ""
+#| "Choose the discount typology to apply when %1$susers redeem their points"
+#| "%2$s, from fixed or percentage, in relation to the price of products in "
+#| "chart"
+msgid ""
+"Choose the discount typology to apply when %1$susers redeem their points"
+"%2$s, from fixed or percentage, in relation to the price of products in cart"
+msgstr ""
+"Scegli la tipologia di sconto, fisso o percentuale, da applicare quando "
+"%1$sgli utenti riscattano i loro punti%2$s in relazione al prezzo dei "
+"prodotti presenti nel carrello"
+
+#: templates/admin/premium.php:519 templates/admin/premium.php:524
+#, fuzzy
+#| msgid "Reset Points"
+msgid "Reset points"
+msgstr "Reimposta punti "
+
+#: templates/admin/premium.php:527
+msgid ""
+"You can reset your customers' points at any time. You can either do that for "
+"all customers or for just some of them on every single customer's points "
+"page or with bulk actions."
+msgstr ""
+
+#: templates/admin/premium.php:537
+msgid "Points management for user roles"
+msgstr "Gestione punti per ruoli utente"
+
+#: templates/admin/premium.php:540
+msgid ""
+"Hot news! Now you can limit the points earning or redeeming only to those "
+"users with a specified role on your site"
+msgstr ""
+"Ultime novità! Ora puoi limitare l'assegnazione e il riscatto dei punti solo "
+"agli utenti con un ruolo specifico sul tuo sito"
+
+#: templates/admin/premium.php:556
+msgid "Shop manager"
+msgstr "Shop manager"
+
+#: templates/admin/premium.php:559
+#, fuzzy
+#| msgid ""
+#| "Do you wish your %1$sshop manager%2$s to take care of the points "
+#| "collecting scheme without giving the %1$sauthorization%2$s to manage the "
+#| "plugin?%3$s No worries, we have the right solution. "
+msgid ""
+"Do you wish your %1$sshop manager%2$s to take care of the loyalty rewards "
+"programme without giving them %1$sadmin capabilities%2$s in your shop?%3$s "
+"No worries, we have the right solution. "
+msgstr ""
+"Vuoi che il tuo %1$sshop manager%2$s si occupi dello schema raccolta punti "
+"senza dare l' %1$sautorizzazione%2$s per la gestione del plugin?%3$s Nessun "
+"problema, abbiamo la soluzione giusta per te."
+
+#: templates/admin/premium.php:562
+msgid ""
+"You only need to enable the option to give the shop manager the %1$sbenefits "
+"to editing%2$s the points balance of each user. "
+msgstr ""
+"Devi solo attivare l'opzione per dare allo shop manager il %1$sbeneficio di "
+"modificare%2$s il saldo punti di ogni utente. "
+
+#: templates/admin/premium.php:572
+msgid "Points per product"
+msgstr "Punti per prodotto"
+
+#: templates/admin/premium.php:575
+msgid ""
+"Give your users a complete view of the points assigned to each product so "
+"that they can immediately notice the opportunity made available. "
+msgstr ""
+"Offri una panoramica completa dei punti assegnati ad ogni prodotto in modo "
+"che possano subito notare l'opportunità messa a loro disposizione."
+
+#: templates/admin/premium.php:591
+msgid "Free shipping"
+msgstr "Spedizione gratuita"
+
+#: templates/admin/premium.php:594
+msgid ""
+"From now on, also those purchasing by redeeming their points can %1$sbenefit "
+"of free shipping%2$s.%3$s Decide whether offering this opportunity or not. "
+msgstr ""
+"D'ora in poi anche coloro che acquistano utilizzando i punti possono "
+"%1$sbeneficiare della spedizione gratuita%2$s.%3$s Decidi se offrire o meno "
+"questa opportunità."
+
+#: templates/admin/premium.php:604
+msgid "Link to \"My points\""
+msgstr "Link a \"I miei punti\""
+
+#: templates/admin/premium.php:607
+msgid ""
+"A dedicated link in the \"My Account\" page, where users have direct access "
+"to an oversight of their points. They will be able to see the date, status, "
+"amount of points and the related order. "
+msgstr ""
+"Un link dedicato nella pagina \"Mio account\" dove gli utenti hanno accesso "
+"diretto a una panoramica dei loro punti. Saranno in grado di vedere la data, "
+"lo stato, la quantità di punti e il relativo ordine."
+
+#: templates/admin/premium.php:619
+msgid "Import and export"
+msgstr ""
+
+#: templates/admin/premium.php:624
+msgid "Import and Export"
+msgstr ""
+
+#: templates/admin/premium.php:627
+msgid ""
+"There may be thousands reasons why you have to import or export your "
+"customers' points. Thanks to the dedicated tab, you can do that in few "
+"simple steps and your customers will never lose a point!"
+msgstr ""
+
+#: templates/admin/premium.php:637
+msgid "Everything at the right moment"
+msgstr ""
+
+#: templates/admin/premium.php:640
+msgid ""
+"You may want to assign points to your users immediately after the order is "
+"placed, or make sure, first, that the order is paid.%3%s No worries. You can "
+"choose yourself on which order status the points will be assigned to your "
+"customers: %1$sOrder completed%2$s, %1$sOrder processing%2$s, %1$s Payment "
+"completed%2$s. You will never lose control!"
+msgstr ""
+
+#: templates/admin/premium.php:652 templates/admin/premium.php:657
+msgid "Multi-currency support"
+msgstr ""
+
+#: templates/admin/premium.php:660
+msgid ""
+"If your shop is running on multiple currencies and you want to set up "
+"specific points conversion rules for each currency, you can! You will be "
+"able to do that both for awarding and for redeeming points, and for each "
+"customer user role that you set up."
+msgstr ""
+
+#: templates/myaccount/my-points-view.php:19
+msgid "My Points"
+msgstr "I miei punti"
+
+#: templates/myaccount/my-points-view.php:21
+msgid "You have <strong>%s point</strong>"
+msgid_plural "You have <strong>%s points</strong>"
+msgstr[0] "Hai <strong>%s point</strong>"
+msgstr[1] "Hai <strong>%s point</strong>"
+
+#: templates/panel/types/options-extrapoints.php:55
+msgid "repeat"
+msgstr "ripeti"
+
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Points and Rewards"
+msgstr "YITH WooCommerce Points and Rewards "
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://yithemes.com/themes/plugins/yith-woocommerce-points-and-rewards/"
+msgstr ""
+"https://yithemes.com/themes/plugins/yith-woocommerce-points-and-rewards/"
+
+#. Description of the plugin/theme
+msgid ""
+"With <code><strong>YITH WooCommerce Points and Rewards</strong></code> you "
+"can start a rewarding program with points to gain your customers' loyalty. "
+"It's a perfect marketing strategy for your store. <a href=\"https://yithemes."
+"com/\" target=\"_blank\">Get more plugins for your e-commerce shop on "
+"<strong>YITH</strong></a>."
+msgstr ""
+"Con <code><strong>YITH WooCommerce Points and Rewards</strong></code> puoi "
+"creare un programma premi per fidelizzare i tuoi clienti. Una strategia di "
+"marketing perfetta per il tuo negozio. <a href=\"https://yithemes.com/\" "
+"target=\"_blank\">Scopri più plugin per il tuo e-commerce su <strong>YITH</"
+"strong></a>."
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr "YITH"
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#~ msgid "Point credit"
+#~ msgstr "Saldo punti"
+
+#~ msgid "Minimum amount of discount"
+#~ msgstr "Importo minimo dello sconto"
+
+#~ msgid ""
+#~ "Thanks to \"Minimum Discount Required to redeem2, you could set a "
+#~ "%1$sminimum amount of discount%2$s under which users could not redeem "
+#~ "their points"
+#~ msgstr ""
+#~ "Grazie a \"Sconto minimo richiesto per il riscatto\" puoi impostare un "
+#~ "%1$simporto minimo di sconto%2$s sotto il quale gli utenti non potranno "
+#~ "riscattare i loro punti"
+
+#~ msgid "Conversion Rate for Points earned"
+#~ msgstr "Tasso conversione punti guadagnati"
+
+#~ msgid "User #%d: %s"
+#~ msgstr "Utente #%d: %s"
+
+#~ msgid "Plugin Documentation"
+#~ msgstr "Documentazione plugin"
+
+#~ msgid "Order Num."
+#~ msgstr "Ordine num."
+
+#~ msgid "View History"
+#~ msgstr "Visualizza cronologia"
+
+#~ msgid "Show All Customers"
+#~ msgstr "Mostra tutti i clienti"
+
+#~ msgid "Filter"
+#~ msgstr "Filtra"
+
+#~ msgid "Member Role"
+#~ msgstr "Ruolo utente"
+
+#~ msgid "Extra Points"
+#~ msgstr "Punti extra"
+
+#~ msgid "Expiry Settings"
+#~ msgstr "Impostazioni validità"
+
+#~ msgid "Update Email Settings"
+#~ msgstr "Impostazioni email aggiornamento"
+
+#~ msgctxt "Plugin name in admin page title"
+#~ msgid "Points and Rewards"
+#~ msgstr "Points and Rewards"
+
+#~ msgctxt "Plugin name in admin WP menu"
+#~ msgid "Points and Rewards"
+#~ msgstr "Points and Rewards"
+
+#~ msgid "Points Earned"
+#~ msgstr "Punti guadagnati"
+
+#~ msgid ""
+#~ "This field allows you to override global and category rules for point "
+#~ "collection.\n"
+#~ "                Leave it blank to make global rules o category rules "
+#~ "apply, assign a fixed number of points for this product\n"
+#~ "                (0 for no points) or set a percent value to apply global "
+#~ "or category rules according to percentage (200&#37; for double points)."
+#~ msgstr ""
+#~ "Questo campo ti permette di sovrascrivere le regole globali e di "
+#~ "categoria per il calcolo dei punti.\n"
+#~ "Lascia il campo vuoto per far valere le regole globali o di categoria, "
+#~ "assegna un numero definito di punti per questo prodotto\n"
+#~ "(0 per nessun punto) o imposta un valore percentuale per modificare le "
+#~ "regole globali o di categoria (200&#37; per il doppio dei punti)."
+
+#~ msgid "Validity for extra point reward (optional)"
+#~ msgstr "Validità punti extra (opzionale)"
+
+#~ msgctxt "placeholder"
+#~ msgid "From&hellip;"
+#~ msgstr "Da&hellip;"
+
+#~ msgctxt "placeholder"
+#~ msgid "To&hellip;"
+#~ msgstr "A&hellip;"
+
+#~ msgid "Maximum point discount"
+#~ msgstr "Massimo sconto punti"
+
+#~ msgid ""
+#~ "Maximum point discount applicable to this product. You can add a constant "
+#~ "value or a percentage value that edits the maximum quantity of points\n"
+#~ "                 that can be used to get a discount according to product "
+#~ "price. This value overrides global and category rules."
+#~ msgstr ""
+#~ "Massimo sconto punti applicabile per questo prodotto. Puoi inserire un "
+#~ "valore fisso o percentuale per modificare il numero massimo di punti\n"
+#~ "che potranno essere utilizzati per ottenere uno sconto in base al prezzo "
+#~ "del prodotto. Questo valore soprascritte le regole globali e di categoria."
+
+#~ msgid "Points Earned:"
+#~ msgstr "Punti guadagnati:"
+
+#~ msgid "Maximum point discount:"
+#~ msgstr "Massimo sconto punti:"
+
+#~ msgid ""
+#~ "Maximum point discount applicable to this variation. You can add a "
+#~ "constant value or a percentage value that edits the maximum quantity of "
+#~ "points\n"
+#~ "                 that can be used to get a discount according to product "
+#~ "price. This value overrides global and category rules."
+#~ msgstr ""
+#~ "Massimo sconto punti applicabile per questa variazione. Puoi inserire un "
+#~ "valore fisso o percentuale per modificare il numero massimo di punti\n"
+#~ "che potranno essere utilizzati per ottenere uno sconto in base al prezzo "
+#~ "del prodotto. Questo valore soprascritte le regole globali e di categoria."
+
+#~ msgid "Validity for extra point reward (optional) - From:"
+#~ msgstr "Validità punti extra (opzionale) - Da:"
+
+#~ msgid "To: "
+#~ msgstr "A: "
+
+#~ msgid ""
+#~ "This field allows you to override global rules for point collection in "
+#~ "all products belonging to this category.\n"
+#~ "                Leave it blank to make global rules apply, assign a fixed "
+#~ "number of points for this category\n"
+#~ "                (0 for no points) or set a percent value to apply global "
+#~ "rules according to percentage (200&#37; for double points).\n"
+#~ "                This value can, in turn, be overridden by rules specified "
+#~ "for single product."
+#~ msgstr ""
+#~ "Questo campo ti permette di sovrascrivere le regole globali per il "
+#~ "calcolo dei punti in tutti i prodotti appartenenti a questa categoria.\n"
+#~ "Lascia il campo vuoto per far valere le regole globali, assegna un numero "
+#~ "definito di punti per questa categoria\n"
+#~ "(0 per nessun punto) o imposta un valore percentuale per modificare le "
+#~ "regole globali (200&#37; per il doppio dei punti)."
+
+#~ msgid ""
+#~ "You can set a start and end date for validity of rules specified in the "
+#~ "field above"
+#~ msgstr ""
+#~ "Puoi selezionare una data di inizio e fine per la validità delle regole "
+#~ "specificate in questo campo."
+
+#~ msgid ""
+#~ "Maximum point discount applicable to products in this category. You can "
+#~ "add a constant value or a percentage value that edits the maximum "
+#~ "quantity of points\n"
+#~ "                 that can be used to get a cart discount according to "
+#~ "product price. This value overrides global rules and can be overridden "
+#~ "by\n"
+#~ "                 rules in single product."
+#~ msgstr ""
+#~ "Massimo sconto punti applicabile per questa categoria. Puoi inserire un "
+#~ "valore fisso o percentuale per modificare il numero massimo di punti\n"
+#~ "che potranno essere utilizzati per ottenere uno sconto in base al prezzo "
+#~ "del prodotto. Questo valore sovrascrive le regole globali  e può essere "
+#~ "sovrascritto dalle regole specificate nel singolo prodotto."
+
+#~ msgid "<strong>%d</strong> order has been updated"
+#~ msgid_plural "<strong>%d</strong> orders have been updated"
+#~ msgstr[0] "<strong>%d</strong> è stato aggiornato"
+#~ msgstr[1] "<strong>%d</strong> ordini sono stati aggiornati"
+
+#~ msgid "Best Point Earners"
+#~ msgstr "Utenti con più punti"
+
+#~ msgid "Best Point Rewards"
+#~ msgstr "I migliori sconti punti"
+
+#~ msgid "No users found"
+#~ msgstr "Nessun utente trovato"
+
+#~ msgid "Added %d %s for cancelled refund."
+#~ msgstr "Aggiunti %d %s per rimborso annullato."
+
+#~ msgid "Removed %d %s for order refund."
+#~ msgstr "Rimossi %d %s per rimborso ordine."
+
+#~ msgid "Reward Discount Applied Successfully"
+#~ msgstr "Premio sconto applicato con successo"
+
+#~ msgid "YITH WooCommerce Points and Rewards - Email Expired Points"
+#~ msgstr "YITH WooCommerce Points and Rewards - Email punti scaduti"
+
+#~ msgid "YITH WooCommerce Points and Rewards - Email Update Points"
+#~ msgstr "YITH WooCommerce Points and Rewards - Email aggiorna punti"
+
+#~ msgid "Your credit is "
+#~ msgstr "Il tuo saldo è "
+
+#~ msgid "<strong>%s</strong> "
+#~ msgid_plural "<strong>%s</strong> "
+#~ msgstr[0] "<strong>%s</strong> "
+#~ msgstr[1] "<strong>%s</strong> "
+
+#~ msgid "Expiring Points"
+#~ msgstr "Punti in scadenza"
+
+#~ msgid "This email is sent to users some days before their points expire."
+#~ msgstr ""
+#~ "Questa email viene inviata all’utente alcuni giorni prima che i punti "
+#~ "scadano."
+
+#~ msgid "[Expiring points]"
+#~ msgstr "[Punti in scadenza]"
+
+#~ msgid "From (Name)"
+#~ msgstr "Da (nome)"
+
+#~ msgid "From (Email Address)"
+#~ msgstr "Da (indirizzo email)"
+
+#~ msgid "Subject"
+#~ msgstr "Oggetto"
+
+#~ msgid ""
+#~ "This field lets you edit email subject line. Leave it blank to use "
+#~ "default subject text: <code>%s</code>."
+#~ msgstr ""
+#~ "Questo campo ti permette di modificare l'oggetto dell'email. Lascia il "
+#~ "campo vuoto per utilizzare l'oggetto predefinito. <code>%s</code>."
+
+#~ msgid "Recipient(s)"
+#~ msgstr "Destinatari"
+
+#~ msgid ""
+#~ "Enter recipients (separated by commas) for this email. Defaults to <code>"
+#~ "%s</code>"
+#~ msgstr ""
+#~ "Inserisci i destinatari (separati da virgole) per questa email. Di "
+#~ "default a <code>%s</code>"
+
+#~ msgid "Send CC copy"
+#~ msgstr "Invia copia carbone"
+
+#~ msgid "Send a carbon copy to the user"
+#~ msgstr "Invia una copia carbone all'utente"
+
+#~ msgid "Email Heading"
+#~ msgstr "Intestazione email"
+
+#~ msgid ""
+#~ "This field lets you change the main heading in email notification. Leave "
+#~ "it blank to use default heading type: <code>%s</code>."
+#~ msgstr ""
+#~ "Questo campo ti permette di modificare l'intestazione dell'email di "
+#~ "notifica. Lascia il campo vuoto per utilizzare il tipo di intestazione "
+#~ "predefinito: <code>%s</code>."
+
+#~ msgid "Email Description"
+#~ msgstr "Descrizione email"
+
+#~ msgid ""
+#~ "You have received a request for a quote. The request is the following:"
+#~ msgstr ""
+#~ "Hai ricevuto una richiesta di preventivo. La richiesta è la seguente:"
+
+#~ msgid "Email type"
+#~ msgstr "Tipo email"
+
+#~ msgid "Choose format for the email that has to be sent."
+#~ msgstr "Scegli il formato per l'email da inviare."
+
+#~ msgid "Plain text"
+#~ msgstr "Testuale"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Multipart"
+#~ msgstr "Multipart"
+
+#~ msgid "This email is sent when user's points have changed"
+#~ msgstr ""
+#~ "Questa email viene inviata all'utente ogni volta che il totale dei punti "
+#~ "viene modificato"
+
+#~ msgid "[Points updated]"
+#~ msgstr "Aggiornamento punti"
+
+#~ msgid "Show points collected by the user so far"
+#~ msgstr "Mostra i punti raccolti fino ad ora"
+
+#~ msgid "Title:"
+#~ msgstr "Titolo:"
+
+#~ msgid "Label:"
+#~ msgstr "Etichetta:"
+
+#~ msgid "Expiration Options"
+#~ msgstr "Opzioni scadenza"
+
+#~ msgid "Points valid for (days)"
+#~ msgstr "Punti validi per (giorni)"
+
+#~ msgid "Type here the number of days for point validity"
+#~ msgstr "Inserisci qui il numero di giorni di validità punti"
+
+#~ msgid "Send an email before expiration date"
+#~ msgstr "Invia un'email prima della scandenza"
+
+#~ msgid "Days before point expire (days)"
+#~ msgstr "Giorni prima della scadenza punti (giorni)"
+
+#~ msgid "Number of days before point expiration when email will be sent"
+#~ msgstr "Numero di giorni prima della scadenza quando sarà inviata l'email"
+
+#~ msgid "Email content"
+#~ msgstr "Contenuto email"
+
+#~ msgid ""
+#~ "You can use the following placeholders,<br>\n"
+#~ "                {username} = customer's username <br>\n"
+#~ "                {expiring_points} = expiring points <br>\n"
+#~ "                {label_points} = label for points <br>\n"
+#~ "                {expiring_date} = point expiry date<br>\n"
+#~ "                {total_points} = current point credit"
+#~ msgstr ""
+#~ "Puoi utilizzare questi segnaposto, <br>\n"
+#~ "                {username} = nome utente del cliente <br>\n"
+#~ "                {expiring_points} = punti in scadenza <br>\n"
+#~ "                {label_points} = etichetta per punti <br>\n"
+#~ "                {expiring_date} = data scadenza punti<br>\n"
+#~ "                {total_points} = saldo punti attuale"
+
+#~ msgid "Settings for Extra Points"
+#~ msgstr "Impostazioni punti extra"
+
+#~ msgid ""
+#~ "Set maximum product discount allowed in cart when redeeming points. Leave "
+#~ "blank to disable."
+#~ msgstr ""
+#~ "Imposta uno sconto massimo consentito nel carrello per il riscatto dei "
+#~ "punti. Lascia il campo vuoto per disabilitare."
+
+#~ msgid "Maximum point discount for single product"
+#~ msgstr "Sconto massimo punti per singolo prodotto"
+
+#~ msgid ""
+#~ "Set maximum product discount allowed when redeeming points per-product. "
+#~ "Leave blank to disable."
+#~ msgstr ""
+#~ "Imposta uno sconto massimo consentito per il riscatto di punti per "
+#~ "prodotto. Lascia il campo vuoto per non renderlo effettivo."
+
+#~ msgid "Enable point removal for cancelled orders"
+#~ msgstr "Abilita rimozione punti per ordini cancellati"
+
+#~ msgid "Enable point removal for total or partial refund"
+#~ msgstr "Abilita rimozione punti per rimborsi totali o parziali"
+
+#~ msgid "Apply Points to Previous Orders"
+#~ msgstr "Applica punti agli ordini precedenti"
+
+#~ msgid "Starting from - Optional: Leave blank to apply to all orders"
+#~ msgstr ""
+#~ "A partire da - Opzionale: lascia vuoto per applicare a tutti gli ordini"
+
+#~ msgid "Order Completed"
+#~ msgstr "Ordine completato"
+
+#~ msgid "Order Cancelled"
+#~ msgstr "Ordine annullato"
+
+#~ msgid "Admin Action"
+#~ msgstr "Azione amministratore"
+
+#~ msgid "Reviews"
+#~ msgstr "Recensioni"
+
+#~ msgid "Registration"
+#~ msgstr "Registrazione"
+
+#~ msgid "Target - Points"
+#~ msgstr "Obiettivo - punti"
+
+#~ msgid "Target achieved - Points collected"
+#~ msgstr "Obiettivo raggiunto - Punti raccolti"
+
+#~ msgid "Target - Total Amount"
+#~ msgstr "Obiettivo - Importo totale"
+
+#~ msgid "Target achieved - Total spend amount"
+#~ msgstr "Obiettivo raggiunto - Importo di spesa totale"
+
+#~ msgid "Target - Total Orders"
+#~ msgstr "Obiettivo - Ordini totali"
+
+#~ msgid "Target achieved - Total Orders"
+#~ msgstr "Obiettivo raggiunto - Ordini totali"
+
+#~ msgid "Expired Points"
+#~ msgstr "Punti scaduti"
+
+#~ msgid "Order Refund"
+#~ msgstr "Rimborso ordine"
+
+#~ msgid "Order Refund Deleted"
+#~ msgstr "Rimborso ordine cancellato"
+
+#~ msgid "Enable Single Product Message"
+#~ msgstr "Abilita messaggio singolo prodotto"
+
+#~ msgid "Message position"
+#~ msgstr "Posizione messaggio"
+
+#~ msgid "Before \"Add to cart\" button"
+#~ msgstr "Prima del pulsante \"Aggiungi al carrello\""
+
+#~ msgid "After \"Add to cart\" button"
+#~ msgstr "Dopo il pulsante \"Aggiungi al carrello\""
+
+#~ msgid "Before excerpt"
+#~ msgstr "Prima del riassunto"
+
+#~ msgid "After excerpt"
+#~ msgstr "Dopo il riassunto"
+
+#~ msgid "After product meta"
+#~ msgstr "Prima dei meta prodotto"
+
+#~ msgid "Single Product Page Message"
+#~ msgstr "Messaggio pagina singolo prodotto"
+
+#~ msgid ""
+#~ "If you purchase this product you will earn <strong>{points}</strong> "
+#~ "{points_label}!"
+#~ msgstr ""
+#~ "Se acquisti questo prodotto guadagnerai <strong>{points}</strong> "
+#~ "{points_label}!"
+
+#~ msgid "Show Message in Checkout"
+#~ msgstr "Mostra messaggio nella pagina di pagamento"
+
+#~ msgid "Checkout Message"
+#~ msgstr "Messaggio pagina di pagamento"
+
+#~ msgid "Enable Conversion Rate for Points by Roles"
+#~ msgstr "Abilita tasso di conversione per punti in base al ruolo"
+
+#~ msgid "Priority Level Conversion"
+#~ msgstr "Priorità regole conversione punti"
+
+#~ msgid "Use the role with Lowest Conversion Rate"
+#~ msgstr "Utilizza il ruolo con il tasso di conversione minore"
+
+#~ msgid "Use the role with Highest Conversion Rate"
+#~ msgstr "Utilizza il ruolo con il tasso di conversione maggiore"
+
+#~ msgid "Conversion Rate for Points earned by %s"
+#~ msgstr "Tasso di conversione per i punti guadagnati da %s"
+
+#~ msgid "Enable Reward Points by Roles"
+#~ msgstr "Abilita extra punti per ruoli"
+
+#~ msgid "Priority Level for Reward Points"
+#~ msgstr "Priorità regole applicazione sconti"
+
+#~ msgid "Use the role with Lowest Reward Points"
+#~ msgstr "Utilizza il ruolo che attribuisce lo  sconto minore"
+
+#~ msgid "Use the role with Highest Reward Points"
+#~ msgstr "Utilizza il ruolo che attribuisce lo sconto maggiore"
+
+#~ msgid "Reward Points for %s in Percentage"
+#~ msgstr "Sconto per %s in percentuale"
+
+#~ msgid "Number of orders"
+#~ msgstr "Numero di ordini"
+
+#~ msgid "Amount spent"
+#~ msgstr "Importo speso"
+
+#~ msgid "Number of points"
+#~ msgstr "Numero di punti"
+
+#~ msgid "Registration on shop"
+#~ msgstr "Registrazione allo shop"
+
+#~ msgid "Update Point Options"
+#~ msgstr "Aggiorna opzioni punti"
+
+#~ msgid "Enable email notification each time points are updated"
+#~ msgstr "Abilita notifica email ogni volta che i punti vengono aggiornati"
+
+#~ msgid "You can use the following placeholders"
+#~ msgstr "Puoi utilizzare questi segnaposto"
+
+#~ msgid "customer's username"
+#~ msgstr "nome utente cliente"
+
+#~ msgid "latest point updates"
+#~ msgstr "ultimi aggiornamenti punti"
+
+#~ msgid "label for points"
+#~ msgstr "etichetta per punti"
+
+#~ msgid "current point credit"
+#~ msgstr "saldo punti attuale"
+
+#~ msgid ""
+#~ "Hi {username}, you can find below latest updates about your "
+#~ "{label_points}. {latest_updates} il tuo punteggio totale &eacute; "
+#~ "{total_points}."
+#~ msgstr ""
+#~ "Ciao {username}, di seguito puoi trovare gli ultimi aggiornamenti sui "
+#~ "tuoi {label_points}. {latest_updates} Your total points are "
+#~ "{total_points}."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "My %s"
+#~ msgstr "I miei %s"
+
+#~ msgid "You have <strong>%s</strong> "
+#~ msgid_plural "You have <strong>%s</strong> "
+#~ msgstr[0] "Hai <strong>%s</strong> "
+#~ msgstr[1] "Hai <strong>%s</strong> "
+
+#~ msgid "My %s History"
+#~ msgstr "La mia cronologia %s"
+
+#~ msgid "Option"
+#~ msgstr "Opzione"
+
+#~ msgid "Value"
+#~ msgstr "Valore"
+
+#~ msgid "Apply Points"
+#~ msgstr "Applica punti"
+
+#~ msgid ""
+#~ "This field allows you to override global and category rules for point "
+#~ "collection.\r\n"
+#~ "                Leave it blank to make global rules o category rules "
+#~ "apply, assign a fixed number of points for this product\r\n"
+#~ "                (0 for no points) or set a percent value to apply global "
+#~ "or category rules according to percentage (200&#37; for double points)."
+#~ msgstr ""
+#~ "Questo campo ti permette di sovrascrivere le regole globali e di "
+#~ "categoria per il calcolo dei punti.\n"
+#~ "Lascia il campo vuoto per far valere le regole globali o di categoria, "
+#~ "assegna un numero definito di punti per questo prodotto\n"
+#~ "(0 per nessun punto) o imposta un valore percentuale per modificare le "
+#~ "regole globali o di categoria (200&#37; per il doppio dei punti)."
+
+#~ msgid ""
+#~ "Maximum point discount applicable to this product. You can add a constant "
+#~ "value or a percentage value that edits the maximum quantity of points\r\n"
+#~ "                 that can be used to get a discount according to product "
+#~ "price. This value overrides global and category rules."
+#~ msgstr ""
+#~ "Massimo sconto punti applicabile per questo prodotto. Puoi inserire un "
+#~ "valore fisso o percentuale per modificare il numero massimo di punti\n"
+#~ "che potranno essere utilizzati per ottenere uno sconto in base al prezzo "
+#~ "del prodotto. Questo valore sovrascrive le regole globali e di categoria."
+
+#~ msgid ""
+#~ "Maximum point discount applicable to this variation. You can add a "
+#~ "constant value or a percentage value that edits the maximum quantity of "
+#~ "points\r\n"
+#~ "                 that can be used to get a discount according to product "
+#~ "price. This value overrides global and category rules."
+#~ msgstr ""
+#~ "Massimo sconto punti applicabile per questa variazione. Puoi inserire un "
+#~ "valore fisso o percentuale per modificare il numero massimo di punti\n"
+#~ "che potranno essere utilizzati per ottenere uno sconto in base al prezzo "
+#~ "del prodotto. Questo valore sovrascrive le regole globali e di categoria."
+
+#~ msgid ""
+#~ "This field allows you to override global rules for point collection in "
+#~ "all products belonging to this category.\r\n"
+#~ "                Leave it blank to make global rules apply, assign a fixed "
+#~ "number of points for this category\r\n"
+#~ "                (0 for no points) or set a percent value to apply global "
+#~ "rules according to percentage (200&#37; for double points).\r\n"
+#~ "                This value can, in turn, be overridden by rules specified "
+#~ "for single product."
+#~ msgstr ""
+#~ "Questo campo ti permette di sovrascrivere le regole globali per il "
+#~ "calcolo dei punti in tutti i prodotti appartenenti a questa categoria.\n"
+#~ "Lascia il campo vuoto per far valere le regole globali, assegna un numero "
+#~ "definito di punti per questa categoria\n"
+#~ "(0 per nessun punto) o imposta un valore percentuale per modificare le "
+#~ "regole globali (200&#37; per il doppio dei punti).\n"
+#~ "Questo valore a sua volta può essere sovrascritto dalle regole "
+#~ "specificate nel singolo prodotto."
+
+#~ msgid ""
+#~ "Maximum point discount applicable to products in this category. You can "
+#~ "add a constant value or a percentage value that edits the maximum "
+#~ "quantity of points\r\n"
+#~ "                 that can be used to get a cart discount according to "
+#~ "product price. This value overrides global rules and can be overridden by"
+#~ "\r\n"
+#~ "                 rules in single product."
+#~ msgstr ""
+#~ "Massimo sconto punti applicabile per questa categoria. Puoi inserire un "
+#~ "valore fisso o percentuale per modificare il numero massimo di punti\n"
+#~ "che potranno essere utilizzati per ottenere uno sconto in base al prezzo "
+#~ "del prodotto. Questo valore sovrascrive le regole globali  e può essere "
+#~ "sovrascritto dalle regole specificate nel singolo prodotto."
+
+#~ msgid ""
+#~ "Maximum point discount applicable to products in this category. You can "
+#~ "add a constant value or a percentage value that edits the maximum "
+#~ "quantity of points\n"
+#~ "                 that can be used to get a cart discount according to "
+#~ "product price. This value overrides global and category rules. This value "
+#~ "overrides global rules and can be overridden by\n"
+#~ "                 rules in single product."
+#~ msgstr ""
+#~ "Massimo sconto punti applicabile per questa categoria. Puoi inserire un "
+#~ "valore fisso o percentuale per modificare il numero massimo di punti\n"
+#~ "che potranno essere utilizzati per ottenere uno sconto in base al prezzo "
+#~ "del prodotto. Questo valore soprascritte le regole globali e di categoria."

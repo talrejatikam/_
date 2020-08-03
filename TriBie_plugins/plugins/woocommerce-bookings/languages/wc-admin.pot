@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: assets/js/components/store-availability-popover/index.js:184
+msgid "Add more times"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:39
+msgid "Edit Availability"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:41
+msgid "Start Date"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:43
+msgid "Add end date"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:45
+msgid "End Date"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:49
+msgid "Time"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:51
+msgid "Available all day"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:52
+msgid "Available at specific hours"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:58
+msgid "Frequency"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:60
+msgid "Does not repeat"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:61
+msgid "Every %s"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:62
+msgid "Anually on %s"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:63
+msgid "On specific days of the week"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:64
+msgid "On specific dates"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:69
+msgid "Repeats on:"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:77
+msgid "Cancel"
+msgstr ""
+
+#: assets/js/components/store-availability-popover/index.js:78
+msgid "Apply"
+msgstr ""
